@@ -22,7 +22,7 @@ IEEE Mansoura Computer Society Chapter is a non-profit organization that **aims 
 #
 
 ![Data Science](/images/data%20science.png)
-- ## **Data Science**: [Roadmap for studying Data Science with Tasks & Projects](https://github.com/mohamedheda/Php-Laravel-Roadmap-2023)
+- ## **Data Science**: [Roadmap for studying Data Science with Tasks & Projects](https://github.com/Mennatullah-Elsahy/Data-Science-Roadmap-IEEE-2023)
 #
 
 ![Embedded Systems](/images/embedded.jpg)
