@@ -3,7 +3,7 @@ This is a repository to present our roadmaps for different computer science trac
 
 # **What is IEEE ManCSC?**
 
-![IEEE ManCSC](/ieee_mancsc.jpg)
+![IEEE ManCSC](/images/ieee_mancsc.jpg)
 IEEE Mansoura Computer Society Chapter is a non-profit organization that **aims for:**
 - Building a cooperative community that seeks to share knowledge in different fields of computer science.
 - Developing a computer science society in Mansoura that tries to take the advanced and trending topics of different fields.
@@ -17,27 +17,27 @@ IEEE Mansoura Computer Society Chapter is a non-profit organization that **aims 
 #
 
 # **Computer Science Tracks in IEEE ManCSC**
-![Back-end](/backend.jpg)
+![Back-end](/images/backend.jpg)
 - ## **Back-end**: [Roadmap for studying Back-end with Tasks & Projects](https://github.com/mohamedheda/Php-Laravel-Roadmap-2023)
 #
 
-![Data Science](/data%20science.png)
+![Data Science](/images/data%20science.png)
 - ## **Data Science**: [Roadmap for studying Data Science with Tasks & Projects](https://github.com/mohamedheda/Php-Laravel-Roadmap-2023)
 #
 
-![Embedded Systems](/embedded.jpg)
+![Embedded Systems](/images/embedded.jpg)
 - ## **Embedded Systems**: [Roadmap for studying Embedded Systems with Tasks & Projects](https://github.com/MahmoudMahfouz-1/Embedded-Systems-Roadmap)
 #
 
-![Flutter](/flutter.jpg)
+![Flutter](/images/flutter.jpg)
 - ## **Flutter**: [Roadmap for studying Flutter with Tasks & Projects](https://github.com/sedky10/Flutter-Roadmap)
 #
 
-![Frontend](/frontend.jpg)
+![Frontend](/images/frontend.jpg)
 - ## **Front-end**: [Roadmap for studying Front-end with Tasks & Projects](https://github.com/Mu-selim/Frontend-Roadmap)
 #
 
-![UI/UX](/uiux.png)
+![UI/UX](/images/uiux.png)
 - ## **UI / UX Design**: [Roadmap for studying UI / UX Design with Tasks & Projects](https://github.com/MoAnter953/ui-ux-roadmap-IEEE)
 
 #
