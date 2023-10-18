@@ -17,28 +17,42 @@ IEEE Mansoura Computer Society Chapter is a non-profit organization that **aims 
 #
 
 # **Computer Science Tracks in IEEE ManCSC**
-![Back-end](/images/backend.jpg)
+<img src="./images/backend.jpg" alt="Backend" width="100%"/>
+
 - ## **Back-end**: [Roadmap for studying Back-end with Tasks & Projects](https://github.com/mohamedheda/Php-Laravel-Roadmap-2023)
 #
 
-![Data Science](/images/data%20science.png)
+<img src="./images/data%20science.png" alt="Data Science" width="100%"/>
+
 - ## **Data Science**: [Roadmap for studying Data Science with Tasks & Projects](https://github.com/Mennatullah-Elsahy/Data-Science-Roadmap-IEEE-2023)
 #
 
-![Embedded Systems](/images/embedded.jpg)
+<img src="./images/embedded.jpg" alt="Embedded Systems" width="100%"/>
+
 - ## **Embedded Systems**: [Roadmap for studying Embedded Systems with Tasks & Projects](https://github.com/MahmoudMahfouz-1/Embedded-Systems-Roadmap)
 #
 
-![Flutter](/images/flutter.jpg)
+<img src="./images/flutter.jpg" alt="Flutter" width="100%"/>
+
 - ## **Flutter**: [Roadmap for studying Flutter with Tasks & Projects](https://github.com/sedky10/Flutter-Roadmap)
 #
 
-![Frontend](/images/frontend.jpg)
+<img src="./images/frontend.jpg" alt="Frontend" width="100%"/>
+
 - ## **Front-end**: [Roadmap for studying Front-end with Tasks & Projects](https://github.com/Mu-selim/Frontend-Roadmap)
 #
 
-![UI/UX](/images/uiux.png)
-- ## **UI / UX Design**: [Roadmap for studying UI / UX Design with Tasks & Projects](https://github.com/MoAnter953/ui-ux-roadmap-IEEE)
+<img src="./images/uiux.png" alt="UI/UX" width="100%"/>
+
+- ## **UI / UX Design**: [Roadmap for studying UI / UX Design with Tasks & Projects](https://github.com/MennaElgyar/ui-ux-roadmap-IEEE)
+
+<img src="./images/web-pen-testing.png" alt="Web Penetration Testing" width="100%"/>
+
+- ## **[ Under Development ] Cyber Security - Web Penetration Testing**: [Roadmap for studying Web Penetration Testing with Tasks & Projects](https://github.com/ossamayasserr/WebAppPentestRoadmap)
+
+<img src="./images/networking.jpg" alt="Networking" width="100%"/>
+
+- ## **[ Under Development ] Networking**: [Roadmap for studying Networking with Tasks & Projects](https://mohamedelweza.notion.site/RoadMap-Network-4db4036a130b49a18467eb3f63eaecf1?pvs=4)
 
 #
 # **Contacts**
