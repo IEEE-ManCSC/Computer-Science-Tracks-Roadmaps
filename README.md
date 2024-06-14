@@ -1,4 +1,4 @@
-# Computer-Science-Tracks-Roadmaps (2022 / 2023)
+# Computer-Science-Tracks-Roadmaps (2023 / 2024)
 This is a repository to present our roadmaps for different computer science tracks. We are following these roadmaps to prepare our volunteers to work in each track.
 
 # **What is IEEE ManCSC?**
@@ -19,32 +19,33 @@ IEEE Mansoura Computer Society Chapter is a non-profit organization that **aims 
 # **Computer Science Tracks in IEEE ManCSC**
 <img src="./images/backend.jpg" alt="Backend" width="100%"/>
 
-- ## **Back-end**: [Roadmap for studying Back-end with Tasks & Projects](https://github.com/mohamedheda/Php-Laravel-Roadmap-2023)
+- ## **Back-end**: [Roadmap for studying Back-end ](https://github.com/mokammel0000/Laravel-Backend-Roadmap)
+- ##  [ Tasks & Projects ](https://github.com/SalmaRedaBedair/IEEE_Tasks_Backend_commitee)
 #
 
-<img src="./images/data%20science.png" alt="Data Science" width="100%"/>
+<img src="./images/data science.png" alt="Data Science" width="100%"/>
 
-- ## **Data Science**: [Roadmap for studying Data Science with Tasks & Projects](https://github.com/Mennatullah-Elsahy/Data-Science-Roadmap-IEEE-2023)
+- ## **Data Science**: [Roadmap for studying Data Science with Tasks & Projects](https://github.com/Ahmed-Hereiz/Data-Science-Roadmap-IEEEManCSC-2024)
 #
 
 <img src="./images/embedded.jpg" alt="Embedded Systems" width="100%"/>
 
-- ## **Embedded Systems**: [Roadmap for studying Embedded Systems with Tasks & Projects](https://github.com/MahmoudMahfouz-1/Embedded-Systems-Roadmap)
+- ## **Embedded Systems**: [Roadmap for studying Embedded Systems with Tasks & Projects](https://github.com/AhmedAdelWafdy7/EMBEDDED-ROADMAP-IEEE)
 #
 
 <img src="./images/flutter.jpg" alt="Flutter" width="100%"/>
 
-- ## **Flutter**: [Roadmap for studying Flutter with Tasks & Projects](https://github.com/sedky10/Flutter-Roadmap)
+- ## **Flutter**: [Roadmap for studying Flutter with Tasks & Projects](https://github.com/Maryam-Elgohary/Flutter-Roadmap)
 #
 
 <img src="./images/frontend.jpg" alt="Frontend" width="100%"/>
 
-- ## **Front-end**: [Roadmap for studying Front-end with Tasks & Projects](https://github.com/Mu-selim/Frontend-Roadmap)
+- ## **Front-end**: [Roadmap for studying Front-end with Tasks & Projects](https://github.com/HunterXNB/Frontend-Roadmap)
 #
 
 <img src="./images/uiux.png" alt="UI/UX" width="100%"/>
 
-- ## **UI / UX Design**: [Roadmap for studying UI / UX Design with Tasks & Projects](https://github.com/MennaElgyar/ui-ux-roadmap-IEEE)
+- ## **UI / UX Design**: [Roadmap for studying UI / UX Design with Tasks & Projects](https://github.com/ahmedabdelati27/ui-ux-roadmap-IEEE)
 
 <img src="./images/web-pen-testing.png" alt="Web Penetration Testing" width="100%"/>
 
