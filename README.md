@@ -1,4 +1,4 @@
-# Computer-Science-Tracks-Roadmaps (2023 / 2024)
+# Computer-Science-Tracks-Roadmaps (2024 / 2025)
 This is a repository to present our roadmaps for different computer science tracks. We are following these roadmaps to prepare our volunteers to work in each track.
 
 # **What is IEEE ManCSC?**
@@ -19,13 +19,12 @@ IEEE Mansoura Computer Society Chapter is a non-profit organization that **aims 
 # **Computer Science Tracks in IEEE ManCSC**
 <img src="./images/backend.jpg" alt="Backend" width="100%"/>
 
-- ## **Back-end**: [Roadmap for studying Back-end Tasks & Projects Node js ](https://github.com/saifsweelam/IEEE-Nodejs-Roadmap)
-- ##  [Roadmap for studying Back-end Tasks & Projects Laravel](https://github.com/SalmaRedaBedair/IEEE_Tasks_Backend_commitee)
+- ## **Back-end**: [Roadmap for studying Back-end Tasks & Projects Node js - Laravel](https://github.com/saifsweelam/IEEE-Backend-Roadmap-2025)
 #
 
 <img src="./images/data science.png" alt="Data Science" width="100%"/>
 
-- ## **Data Science**: [Roadmap for studying Data Science with Tasks & Projects](https://github.com/Ahmed-Hereiz/Data-Science-Roadmap-IEEEManCSC-2024)
+- ## **Data Science**: [Roadmap for studying Data Science with Tasks & Projects](https://github.com/Mariam-Ahmed15/Data-Science-Roadmap-IEEEManCSC-2025)
 #
 
 <img src="./images/embedded.jpg" alt="Embedded Systems" width="100%"/>
@@ -40,20 +39,20 @@ IEEE Mansoura Computer Society Chapter is a non-profit organization that **aims 
 
 <img src="./images/frontend.jpg" alt="Frontend" width="100%"/>
 
-- ## **Front-end**: [Roadmap for studying Front-end with Tasks & Projects](https://github.com/HunterXNB/Frontend-Roadmap)
+- ## **Front-end**: [Roadmap for studying Front-end with Tasks & Projects](https://github.com/N0ble-dev/Frontend-Roadmap)
 #
 
 <img src="./images/uiux.png" alt="UI/UX" width="100%"/>
 
-- ## **UI / UX Design**: [Roadmap for studying UI / UX Design with Tasks & Projects](https://github.com/ahmedabdelati27/ui-ux-roadmap-IEEE)
+- ## **UI / UX Design**: [Roadmap for studying UI / UX Design with Tasks & Projects](https://github.com/ahmedaymanllll/ui-ux-roadmap-IEEE)
 
 <img src="./images/web-pen-testing.png" alt="Web Penetration Testing" width="100%"/>
 
-- ## **[ Under Development ] Cyber Security - Web Penetration Testing**: [Roadmap for studying Web Penetration Testing with Tasks & Projects](https://github.com/ossamayasserr/WebAppPentestRoadmap)
+- ## **Cyber Security**: [Roadmap for studying Cyber Security with Tasks & Projects](https://github.com/0xkalawy/IEEE)
 
-<img src="./images/networking.jpg" alt="Networking" width="100%"/>
+<img src="./images/Data-Engineering.jpg" alt="Data Engineering" width="100%"/>
 
-- ## **[ Under Development ] Networking**: [Roadmap for studying Networking with Tasks & Projects](https://mohamedelweza.notion.site/RoadMap-Network-4db4036a130b49a18467eb3f63eaecf1?pvs=4)
+- ## **Data Engineering**: [Roadmap for studying Data Engineering with Tasks & Projects](https://github.com/Welloz03/Data-Engineering-Roadmap-IEEEManCSC-2025)
 
 #
 # **Contacts**
